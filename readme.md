@@ -19,10 +19,10 @@
 ## ⚙️ About Me
 
 ```yaml
-name:       Thrivikram
-location:   India
-education:  B.Tech CSE @ IIIT Dharwad
-role:       Full Stack Developer
+Name:       Thrivikram
+Location:   India
+Education:  B.Tech CSE @ IIIT Dharwad
+Role:       Full Stack Developer
 
 currently:
   - Building end-to-end web applications using modern stacks
@@ -66,14 +66,8 @@ interests:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddhuPudi&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddhuPudi&theme=algolia&hide_border=true&show_icons=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180" />
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhuPudi&theme=algolia&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" />
 
   <br><br>
@@ -82,8 +76,10 @@ interests:
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhuPudi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="95%" />
-
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhuPudi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="95%" />
+  </div>
+  
 </div>
 
 ---
