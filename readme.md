@@ -70,6 +70,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
@@ -88,8 +89,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats-seven-green-43.vercel.app/api?username=SiddhuPudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
-&nbsp;
+
 <img height="180px" src="https://streak-stats.demolab.com?user=SiddhuPudi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 </div>
