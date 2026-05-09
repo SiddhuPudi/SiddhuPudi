@@ -88,7 +88,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=SiddhuPudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
+<img height="180px" src="https://github-readme-stats-seven-green-43.vercel.app/api?username=SiddhuPudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
 &nbsp;
 <img height="180px" src="https://streak-stats.demolab.com?user=SiddhuPudi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
@@ -100,7 +100,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 
 <div align="left">
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhuPudi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
+<img height="200px" src="https://github-readme-stats-seven-green-43.vercel.app/api/top-langs/?username=SiddhuPudi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
 
 </div>
 
