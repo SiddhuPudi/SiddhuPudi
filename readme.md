@@ -1,39 +1,59 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Thrivikram;Full+Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Thrivikram&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20IIIT%20Dharwad%20%2727&descAlignY=60&descSize=18&animation=twinkling" />
 
-  <br><br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=99999&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Thrivikram!" alt="Greeting" />
 
-  <img src="https://img.shields.io/badge/B.Tech_CSE-IIIT_Dharwad-58A6FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-58A6FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://komarev.com/ghpvc/?username=SiddhuPudi&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9A%80+Building+Scalable+Full-Stack+Web+Apps;%E2%9A%99%EF%B8%8F+Crafting+Robust+Backend+Systems;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Enthusiast;%F0%9F%92%BC+Open+to+Internships+%26+Full-Time+Roles!" alt="Typing SVG" />
 
-  <br><br>
+<br/>
 
-  <em>Interested in building scalable, efficient, and user-centric applications</em>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thrivikram-pudi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddhuPudi)
+[![Gmail](https://img.shields.io/badge/work.with.thrivikram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.with.thrivikram@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SiddhuPudi&style=for-the-badge&color=A78BFA&labelColor=0D1117&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## ⚙️ About Me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```yaml
-Name:       Thrivikram
-Location:   India
-Education:  B.Tech CSE @ IIIT Dharwad
-Role:       Full Stack Developer
+Name        : Thrivikram
+Education   : B.Tech CSE @ IIIT Dharwad (2023-2027)
+Location    : India
+Role        : Full Stack Developer & Software Engineer
 
-currently:
-  - Building end-to-end web applications using modern stacks
+Currently   :
+  - Building end-to-end web applications
   - Designing reliable systems with clean architectures
-  - Exploring real-world engineering problems and solutions
+  - Seeking Internships & Full-Time Roles
 
-interests:
-  - Scalable Backend Systems
-  - Cloud & DevOps
-  - AI-powered Applications
+Languages   : C, C++, Java, JavaScript, Python
+Frontend    : React.js, HTML5, CSS3
+Backend     : Node.js, Express.js, REST APIs
+Databases   : MySQL, PostgreSQL, MongoDB
+Tools       : Git, Docker, Vercel, VS Code
+
+Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 ```
+
+</td>
+<td valign="middle" width="40%" align="center" style="padding:0;">
+
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -66,65 +86,95 @@ interests:
 
 ## 📊 GitHub Stats
 
-<div>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhuPudi&theme=algolia&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhuPudi&theme=algolia&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180" />
-
-  <br><br>
-
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhuPudi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="95%" />
-  </div>
-  
-</div>
-
----
-
-## 🎯 Currently Focused On
-
 <div align="center">
 
-| 🌐 Web | 📐 System Design | 🤖 AI |
-|:---:|:---:|:---:|
-| Building scalable web applications | Improving system design skills | Exploring backend + AI integrations |
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=SiddhuPudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
+&nbsp;
+<img height="180px" src="https://streak-stats.demolab.com?user=SiddhuPudi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Most Used Languages
 
-<div align="center">
+<div align="left">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thrivikram-pudi)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.with.thrivikram@gmail.com)
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhuPudi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
 
 </div>
 
 ---
 
+## 📈 Contribution Graph
+
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SiddhuPudi/SiddhuPudi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SiddhuPudi/SiddhuPudi/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/SiddhuPudi/SiddhuPudi/output/github-contribution-grid-snake-dark.svg"
-      width="95%" />
-  </picture>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhuPudi&bg_color=0D1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Thrivikram's%20Contribution%20Graph" />
 
-  <br><br>
+</div>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+---
 
-  <br><br>
+## 📊 Profile Summary
 
-  <img src="https://img.shields.io/badge/💡_Open_to_internships,_collaborations_&_impactful_projects-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhuPudi&theme=tokyonight" />
+
+<br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddhuPudi&theme=tokyonight" />
+&nbsp;
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddhuPudi&theme=tokyonight" />
+
+<br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddhuPudi&theme=tokyonight" />
+&nbsp;
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddhuPudi&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="left">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/💼%20Open%20to%20Internships%20%26%20Full--Time%20Roles-7c3aed?style=for-the-badge&logoColor=white)
+
+<br/>
+
+> 🚀 Actively looking for **SDE / Full-Stack / Backend** internship opportunities.
+> Got an exciting project or opening? **Let's build something amazing together!**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thrivikram-pudi)
+[![Gmail](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.with.thrivikram@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddhuPudi)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddhuPudi/SiddhuPudi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddhuPudi/SiddhuPudi/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SiddhuPudi/SiddhuPudi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=twinkling" />
 
 </div>
