@@ -93,7 +93,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 <div align="center">
 
 
-<img height="180px" src="https://streak-stats.demolab.com?user=SiddhuPudi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak Stats" />
+<img height="180px" src="https://github-readme-stats-seven-green-43.vercel.app/api?username=SiddhuPudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=A78BFA&cache_seconds=1800" alt="GitHub Stats" />
 
 </div>
 
