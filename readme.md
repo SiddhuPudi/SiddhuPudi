@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thrivikram-pudi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddhuPudi)
 [![Gmail](https://img.shields.io/badge/work.with.thrivikram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.with.thrivikram@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thrivikram-portfolio.vercel.app/)
 
 <br/>
 
@@ -71,6 +72,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
@@ -82,6 +84,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -90,7 +93,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 <div align="center">
 
 
-<img height="180px" src="https://streak-stats.demolab.com?user=SiddhuPudi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="180px" src="https://streak-stats.demolab.com?user=SiddhuPudi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -100,7 +103,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 
 <div align="left">
 
-<img height="200px" src="https://github-readme-stats-seven-green-43.vercel.app/api/top-langs/?username=SiddhuPudi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&cache_seconds=1800" />
+<img height="200px" src="https://github-readme-stats-seven-green-43.vercel.app/api/top-langs/?username=SiddhuPudi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&cache_seconds=1800" alt="Most Used Languages" />
 
 </div>
 
@@ -110,7 +113,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhuPudi&bg_color=0D1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Thrivikram's%20Contribution%20Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhuPudi&bg_color=0D1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Thrivikram's%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
@@ -120,19 +123,19 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhuPudi&theme=tokyonight" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhuPudi&theme=tokyonight" alt="Profile Details" />
 
 <br/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddhuPudi&theme=tokyonight" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddhuPudi&theme=tokyonight" alt="Repos Per Language" />
 &nbsp;
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddhuPudi&theme=tokyonight" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddhuPudi&theme=tokyonight" alt="Most Commit Language" />
 
 <br/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddhuPudi&theme=tokyonight" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddhuPudi&theme=tokyonight" alt="GitHub Stats" />
 &nbsp;
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddhuPudi&theme=tokyonight&utcOffset=5.5" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddhuPudi&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
@@ -164,6 +167,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thrivikram-pudi)
 [![Gmail](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.with.thrivikram@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddhuPudi)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thrivikram-portfolio.vercel.app/)
 
 <br/>
 
@@ -175,6 +179,6 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=twinkling" alt="Footer Wave" />
 
 </div>
