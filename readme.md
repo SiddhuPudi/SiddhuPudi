@@ -23,6 +23,10 @@
 
 ## 👨‍💻 About Me
 
+I got into CS chasing a simple question — why do some interfaces feel alive while others feel dead? That curiosity pulled me into real-time systems, and eventually into building full-stack products that feel as good under the hood as they look on screen.
+
+At IIIT Dharwad I've gone deep on system design, databases, and distributed architecture — with projects like Shinsei Keikaku (a gamified productivity system) and Talent Sync (a real-time hiring platform built on Kafka and Socket.IO).
+
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -40,7 +44,7 @@ Currently   :
 
 Languages   : C, C++, Java, JavaScript, Python
 Frontend    : React.js, HTML5, CSS3
-Backend     : Node.js, Express.js, REST APIs
+Backend     : Node.js, Express.js, REST APIs, Prisma
 Databases   : MySQL, PostgreSQL, MongoDB
 Tools       : Git, Docker, Vercel, VS Code
 
@@ -114,28 +118,6 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhuPudi&bg_color=0D1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Thrivikram's%20Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 📊 Profile Summary
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhuPudi&theme=tokyonight" alt="Profile Details" />
-
-<br/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddhuPudi&theme=tokyonight" alt="Repos Per Language" />
-&nbsp;
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddhuPudi&theme=tokyonight" alt="Most Commit Language" />
-
-<br/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddhuPudi&theme=tokyonight" alt="GitHub Stats" />
-&nbsp;
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddhuPudi&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
