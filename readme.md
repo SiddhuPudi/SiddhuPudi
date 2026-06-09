@@ -23,10 +23,6 @@
 
 ## 👨‍💻 About Me
 
-I got into CS chasing a simple question — why do some interfaces feel alive while others feel dead? That curiosity pulled me into real-time systems, and eventually into building full-stack products that feel as good under the hood as they look on screen.
-
-At IIIT Dharwad I've gone deep on system design, databases, and distributed architecture — with projects like Shinsei Keikaku (a gamified productivity system) and Talent Sync (a real-time hiring platform built on Kafka and Socket.IO).
-
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -42,12 +38,6 @@ Currently   :
   - Designing reliable systems with clean architectures
   - Seeking Internships & Full-Time Roles
 
-Languages   : C, C++, Java, JavaScript, Python
-Frontend    : React.js, HTML5, CSS3
-Backend     : Node.js, Express.js, REST APIs, Prisma
-Databases   : MySQL, PostgreSQL, MongoDB
-Tools       : Git, Docker, Vercel, VS Code
-
 Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 ```
 
@@ -59,6 +49,56 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 </td>
 </tr>
 </table>
+
+I got into CS chasing a simple question — why do some interfaces feel alive while others feel dead? That curiosity pulled me into real-time systems, and eventually into building full-stack products that feel as good under the hood as they look on screen.
+
+At IIIT Dharwad I've gone deep on system design, databases, and distributed architecture — with projects like Shinsei Keikaku (a gamified productivity system) and Talent Sync (a real-time hiring platform built on Kafka and Socket.IO).
+
+---
+
+## 🚀 Featured Projects
+
+### ⚔️ Shinsei Keikaku
+**A gamified personal growth OS that turns your daily life into an RPG**
+
+> Built a full quest system with EXP progression, difficulty tiers, and stat rewards across 6 categories — wrapped in a glassmorphism UI with dark-first design and micro-animations.
+
+- 🏆 **Level & Rank Engine** — E-Rank Trainee → S-Rank Elite with EXP curves and 5 combat stats (Strength, Intellect, Discipline, Vitality, Focus)
+- ⚔️ **Quest System** — Daily / Weekly / Long-term tiers with auto-classification by deadline and difficulty scaling (Easy → Extreme)
+- 🏅 **Achievements** — 5 rarity tiers (Common → Legendary) with color-coded glow effects
+- 💰 **Finance Tracker** — Budgets, savings goals, and month/year bar chart analytics
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 🤝 Talent Sync &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://talent-sync-green.vercel.app/)
+**A full-stack job platform with real-time chat, connections, and live notifications**
+
+> Deployed on Vercel + Render with GitHub Actions CI/CD. Engineered a Kafka-backed event bus for message ordering, Redis for presence tracking, and route-based rate limiting.
+
+- 💬 **Real-time Chat** — Socket.IO with typing indicators, online/offline presence glow, and mobile-responsive sidebar
+- 📡 **Kafka + Redis Event Bus** — Guaranteed message ordering and pub/sub presence tracking across concurrent users
+- 🔄 **CI/CD Pipeline** — GitHub Actions with parallel jobs, Docker Compose integration tests, auto-deploy on push to main
+- 🛡️ **Rate Limiting** — Redis-backed: 15/15min (auth) · 300/min (reads) · 60/min (writes) with exponential backoff
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -75,18 +115,20 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
