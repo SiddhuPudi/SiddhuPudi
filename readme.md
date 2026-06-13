@@ -8,10 +8,10 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thrivikram-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thrivikram-pudi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddhuPudi)
 [![Gmail](https://img.shields.io/badge/work.with.thrivikram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.with.thrivikram@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thrivikram-portfolio.vercel.app/)
 
 <br/>
 
@@ -25,13 +25,20 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ```yaml
 Name        : Thrivikram
 Education   : B.Tech CSE @ IIIT Dharwad (2023-2027)
 Location    : India
 Role        : Full Stack Developer & Software Engineer
+
+# ── Tech Stack ──────────────────────────
+Languages   : C, C++, Java, JavaScript, Python
+Frontend    : React.js, HTML5, CSS3
+Backend     : Node.js, Express.js, REST APIs, Prisma
+Databases   : MySQL, PostgreSQL, MongoDB, Redis
+Tools       : Git, Docker, Kafka, GitHub Actions, Vercel
 
 Currently   :
   - Building end-to-end web applications
@@ -42,7 +49,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 ```
 
 </td>
-<td valign="middle" width="40%" align="center" style="padding:0;">
+<td valign="middle" width="50%" align="center" style="padding:0;">
 
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Coding GIF"/>
 
@@ -58,15 +65,16 @@ At IIIT Dharwad I've gone deep on system design, databases, and distributed arch
 
 ## 🚀 Featured Projects
 
-### ⚔️ Shinsei Keikaku
-**A gamified personal growth OS that turns your daily life into an RPG**
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Built a full quest system with EXP progression, difficulty tiers, and stat rewards across 6 categories — wrapped in a glassmorphism UI with dark-first design and micro-animations.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=80&text=⚔️%20Shinsei%20Keikaku&fontSize=26&fontColor=A78BFA&animation=twinkling" width="100%" />
+</div>
 
-- 🏆 **Level & Rank Engine** — E-Rank Trainee → S-Rank Elite with EXP curves and 5 combat stats (Strength, Intellect, Discipline, Vitality, Focus)
-- ⚔️ **Quest System** — Daily / Weekly / Long-term tiers with auto-classification by deadline and difficulty scaling (Easy → Extreme)
-- 🏅 **Achievements** — 5 rarity tiers (Common → Legendary) with color-coded glow effects
-- 💰 **Finance Tracker** — Budgets, savings goals, and month/year bar chart analytics
+[![Repo](https://img.shields.io/badge/View%20Repo-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/SiddhuPudi/Shinsei-Keikaku)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -76,17 +84,17 @@ At IIIT Dharwad I've gone deep on system design, databases, and distributed arch
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+A gamified personal growth OS that turns daily life into an RPG — featuring a level & rank engine (E-Rank → S-Rank), quest system with **4 difficulty tiers**, **5 combat stats**, achievements with **5 rarity tiers** (Common → Legendary), and finance tracking — all in a glassmorphism dark-first UI with micro-animations.
 
-### 🤝 Talent Sync &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://talent-sync-green.vercel.app/)
-**A full-stack job platform with real-time chat, connections, and live notifications**
+</td>
+<td width="50%" valign="top">
 
-> Deployed on Vercel + Render with GitHub Actions CI/CD. Engineered a Kafka-backed event bus for message ordering, Redis for presence tracking, and route-based rate limiting.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=80&text=🤝%20Talent%20Sync&fontSize=26&fontColor=A78BFA&animation=twinkling" width="100%" />
+</div>
 
-- 💬 **Real-time Chat** — Socket.IO with typing indicators, online/offline presence glow, and mobile-responsive sidebar
-- 📡 **Kafka + Redis Event Bus** — Guaranteed message ordering and pub/sub presence tracking across concurrent users
-- 🔄 **CI/CD Pipeline** — GitHub Actions with parallel jobs, Docker Compose integration tests, auto-deploy on push to main
-- 🛡️ **Rate Limiting** — Redis-backed: 15/15min (auth) · 300/min (reads) · 60/min (writes) with exponential backoff
+[![Repo](https://img.shields.io/badge/View%20Repo-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/SiddhuPudi/Talent_Sync)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://talent-sync-green.vercel.app/)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -99,6 +107,13 @@ At IIIT Dharwad I've gone deep on system design, databases, and distributed arch
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+Full-stack job platform with **real-time Socket.IO chat**, typing indicators & presence glow. Kafka-backed event bus for message ordering, Redis for presence tracking, and rate limiting (**300 GET / 60 write req/min**). CI/CD via GitHub Actions with Docker Compose integration tests, auto-deployed to Vercel + Render.
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
