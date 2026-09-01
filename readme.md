@@ -1,7 +1,6 @@
 <div align="center">
 
-<div style="display: none;"><h1>Pudi Thrivikram (SiddhuPudi) GitHub Profile</h1></div>
-
+<!-- Google Search Indexing Key: Pudi Thrivikram (SiddhuPudi) GitHub Profile -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Thrivikram&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20IIIT%20Dharwad%20%2727&descAlignY=60&descSize=18&animation=twinkling" />
 
