@@ -1,5 +1,8 @@
 <div align="center">
 
+<div style="display: none;"><h1>Pudi Thrivikram (SiddhuPudi) GitHub Profile</h1></div>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Thrivikram&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20IIIT%20Dharwad%20%2727&descAlignY=60&descSize=18&animation=twinkling" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=99999&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Thrivikram!" alt="Greeting" />
@@ -57,7 +60,7 @@ Interests   : Scalable Backend Systems, Cloud & DevOps, AI Apps
 </tr>
 </table>
 
-I got into CS chasing a simple question — why do some interfaces feel alive while others feel dead? That curiosity pulled me into real-time systems, and eventually into building full-stack products that feel as good under the hood as they look on screen.
+Hi, I'm Pudi Thrivikram. I got into CS chasing a simple question — why do some interfaces feel alive while others feel dead? That curiosity pulled me into real-time systems, and eventually into building full-stack products that feel as good under the hood as they look on screen.
 
 At IIIT Dharwad I've gone deep on system design, databases, and distributed architecture — with projects like Shinsei Keikaku (a gamified productivity system) and Talent Sync (a real-time hiring platform built on Kafka and Socket.IO).
 
